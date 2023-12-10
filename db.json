@@ -2,10 +2,28 @@
   "users":[
     {
     "id":1,
+<<<<<<< HEAD
     "name":"Miron",
     "surname":"Khvitsko",
     "photo_url":"https://avatars.githubusercontent.com/u/152507620?v=4",
     "balance":450
+=======
+<<<<<<< HEAD
+    "name":"Artem",
+    "surname":"Belarusov",
+    "photo-url":"https://avatars.githubusercontent.com/u/152062157?v=4",
+    "balance": 3500
+>>>>>>> 03cfc7ff5225ad80416ef7d84ff125015fb1a223
     }
   ]
+=======
+    "name":"Artyom",
+    "surname":"Dertiom",
+    "photo_url":"https://avatars.githubusercontent.com/u/152062170?v=4",
+    "balance":2233
+}
+  ]
+
+
+>>>>>>> 8d9716f428654c97434259febec1945c528761e0
 }
