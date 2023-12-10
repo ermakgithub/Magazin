@@ -1,4 +1,13 @@
 {
   "users":[
+    {
+    "id":1,
+    "name":"Artyom",
+    "surname":"Dertiom",
+    "photo_url":"https://avatars.githubusercontent.com/u/152062170?v=4",
+    "balance":2233
+}
   ]
+
+
 }
