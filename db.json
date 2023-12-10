@@ -1,4 +1,11 @@
 {
   "users":[
+    {
+    "id":1,
+    "name":"Miron",
+    "surname":"Khvitsko",
+    "photo_url":"https://avatars.githubusercontent.com/u/152507620?v=4",
+    "balance":450
+    }
   ]
 }
